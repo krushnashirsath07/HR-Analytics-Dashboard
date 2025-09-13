@@ -104,3 +104,5 @@ Incorporating employee performance and engagement metrics.
 Expanding the dashboard to include training effectiveness and promotion analysis.
 
 👉 This project showcases how Power BI can transform HR data into meaningful insights that support employee retention, workforce planning, and organizational growth.
+
+Examples : https://github.com/krushnashirsath07/HR-Analytics-Dashboard/blob/main/HR%20Analytics.png
